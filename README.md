@@ -11,6 +11,11 @@ gelesen und uns anschließend mit den verschiedenen Programmen, primär mit Star
 Nach einigem Ausprobieren in der letzten Doppelstunde haben wir uns für The Beauty and Joy of Computing entschieden.
 https://snap.berkeley.edu/snapsource/snap.html#
 
-Dort haben wir zunächst einige Funktionen ausprobiert und anschließend versucht, ein auf Star Wars basierendes Spiel zu programmieren, bei dem ein Raumschiff mit einem Laser auf Gegner schießt und diese bei einem Treffer in einen Feuerball verwandelt. Dies gelang uns auch in den ersten Ansätzen.
+Dort haben wir zunächst einige Funktionen ausprobiert und anschließend versucht, ein auf Star Wars basierendes Spiel zu programmieren, bei dem ein Raumschiff mit einem Laser auf Gegner schießt.
 
+<img width="715" alt="screenshot star wars 1" src="https://user-images.githubusercontent.com/42578525/44679009-11e75b00-aa3a-11e8-935d-5ced46ac6dd9.png">
+
+Bei einem Treffer mit dem Laser explodiert der Feind und wird zu einem Feuerball. 
+
+<img width="709" alt="bildschirmfoto 2018-08-27 um 19 50 00" src="https://user-images.githubusercontent.com/42578525/44679352-07799100-aa3b-11e8-867c-0cc9d716708d.png">
 
