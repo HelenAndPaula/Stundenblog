@@ -11,7 +11,7 @@ gelesen und uns anschließend mit den verschiedenen Programmen, primär mit Star
 Nach einigem Ausprobieren in der letzten Doppelstunde haben wir uns für The Beauty and Joy of Computing entschieden.
 https://snap.berkeley.edu/snapsource/snap.html#
 
-Dort haben wir zunächst einige Funktionen ausprobiert und anschließend versucht, ein auf Star Wars basierendes Spiel zu programmieren, bei dem ein Raumschiff mit einem Laser auf Gegner schießt.
+Dort haben wir zunächst einige Funktionen ausprobiert und anschließend versucht, ein auf Star Wars basierendes Spiel zu programmieren, bei dem ein Raumschiff mit einem Laser auf Gegner schießt. Dazu nutzten wir ein YouTube-Tutorial von TheSimpleInformatics (https://www.youtube.com/watch?v=kSLnwUuE3Xg).
 
 <img width="715" alt="screenshot star wars 1" src="https://user-images.githubusercontent.com/42578525/44679009-11e75b00-aa3a-11e8-935d-5ced46ac6dd9.png">
 
