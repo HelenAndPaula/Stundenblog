@@ -13,4 +13,4 @@ https://snap.berkeley.edu/snapsource/snap.html#
 
 Dort haben wir zunächst einige Funktionen ausprobiert und anschließend versucht, ein auf Star Wars basierendes Spiel zu programmieren, bei dem ein Raumschiff mit einem Laser auf Gegner schießt und diese bei einem Treffer in einen Feuerball verwandelt. Dies gelang uns auch in den ersten Ansätzen.
 
-![bsp star wars](image/screenshot star wars 1"Screenshot von Star Wars")
+
