@@ -1,5 +1,7 @@
 # Stundenblog
 
+## Stundenblog
+
 ## Dienstag, 21. August 2018
 
 In der ersten Doppelstunde haben wir zunächst nach einer ersten Einführung durch Herrn Buhl mit einem eigenen GitHub-Konto 
@@ -19,3 +21,6 @@ Bei einem Treffer mit dem Laser explodiert der Feind und wird zu einem Feuerball
 
 <img width="709" alt="bildschirmfoto 2018-08-27 um 19 50 00" src="https://user-images.githubusercontent.com/42578525/44679352-07799100-aa3b-11e8-867c-0cc9d716708d.png">
 
+## Dienstag, 28. August 2018
+
+Nachdem wir gestern bereits ein Spiel in ersten Ansätem erarbeitet hatten, wollten wir unsere Idee huete ausbauen. Daher entwickelten wir Ansätze eines einfaches Spiel für zwei Spieler, basierend auf einer Filmreihe. Wir nutzten das Programm "The beauty and joy of computing" und setzten zwei Figuren, welche sich auf einer festgelegten vertikalen Achse bewegen können und aufeinander schießen.
