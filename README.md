@@ -24,3 +24,11 @@ Bei einem Treffer mit dem Laser explodiert der Feind und wird zu einem Feuerball
 ## Dienstag, 28. August 2018
 
 Nachdem wir gestern bereits ein Spiel in ersten Ansätem erarbeitet hatten, wollten wir unsere Idee huete ausbauen. Daher entwickelten wir Ansätze eines einfaches Spiel für zwei Spieler, basierend auf einer Filmreihe. Wir nutzten das Programm "The beauty and joy of computing" und setzten zwei Figuren, welche sich auf einer festgelegten vertikalen Achse bewegen können und aufeinander schießen.
+
+## Montag, 10. September 2018
+
+Da in der letzten Woche der Informatikunterrciht ausgefallen ist, haben wir erst heute wieder mit der Projektarbeit weiter gemacht. Nachdem wir uns in den letzten Stunden mit diversen verschiedenen Möglichkeiten, um mit Snap! zu Programmieren befasst haben, haben  uns wir heute weiter mit der Lektion 3 der ersten Unit von "The Beauty and Joy of Computing" befasst, bei der es darum ging, bestimmte symmetrische Muster zu zeichenen. 
+
+Dafür erstellten wir erst einen neuen Block, indem wir die Befehle für die Größe und Art der Form festlegte (Screenshot)
+
+Anschließend legten wir verschiedenen Stiftfarben und Formen aus.
