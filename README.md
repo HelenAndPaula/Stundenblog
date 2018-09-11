@@ -32,3 +32,8 @@ Da in der letzten Woche der Informatikunterrciht ausgefallen ist, haben wir erst
 Dafür erstellten wir erst einen neuen Block, indem wir die Befehle für die Größe und Art der Form festlegte (Screenshot)
 
 Anschließend legten wir verschiedenen Stiftfarben und Formen aus.
+
+
+## Dienstag, 11. September 2018
+
+
