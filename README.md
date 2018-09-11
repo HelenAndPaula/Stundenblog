@@ -36,4 +36,4 @@ Anschließend legten wir verschiedenen Stiftfarben und Formen aus.
 
 ## Dienstag, 11. September 2018
 
-
+![11 9](https://user-images.githubusercontent.com/42578525/45364633-2a26b080-b5ca-11e8-9d66-85b144c01568.PNG)
