@@ -3,17 +3,17 @@
 
 [Einführung](#einf)  
 [1. Dienstag, 21. August 2018](#1)  
-[2. Wege für Leute, die sich mehr mit „Physical Computing“ beschäftigen wollen](#2)  
-[3. Wege für Fortgeschrittene](#3)
+[2.  Montag, 27. August 2018](#2)  
+[3. Dienstag, 28. August 2018](#3)
 ## Stundenblog
 
-### <a name="1"></a> Dienstag, 21. August 2018
+## <a name="1"></a> Dienstag, 21. August 2018
 
 In der ersten Doppelstunde haben wir zunächst nach einer ersten Einführung durch Herrn Buhl mit einem eigenen GitHub-Konto 
 auseinandergesetzt und dieses eingerichtet. Anschließend lasen wir den Informationstext auf GitHub ( https://raw.githubusercontent.com/jbuhl/InformatikUnterricht/master/README.md ) 
 gelesen und uns anschließend mit den verschiedenen Programmen, primär mit StarLogo TNG beschäftigt. 
 
-## Montag, 27. August 2018
+## <a name="2"></a>Montag, 27. August 2018
 
 Nach einigem Ausprobieren in der letzten Doppelstunde haben wir uns für The Beauty and Joy of Computing entschieden.
 https://snap.berkeley.edu/snapsource/snap.html#
@@ -26,7 +26,7 @@ Bei einem Treffer mit dem Laser explodiert der Feind und wird zu einem Feuerball
 
 <img width="709" alt="bildschirmfoto 2018-08-27 um 19 50 00" src="https://user-images.githubusercontent.com/42578525/44679352-07799100-aa3b-11e8-867c-0cc9d716708d.png">
 
-## Dienstag, 28. August 2018
+## <a name="3"></a>Dienstag, 28. August 2018
 
 Nachdem wir gestern bereits ein Spiel in ersten Ansätem erarbeitet hatten, wollten wir unsere Idee huete ausbauen. Daher entwickelten wir Ansätze eines einfaches Spiel für zwei Spieler, basierend auf einer Filmreihe. Wir nutzten das Programm "The beauty and joy of computing" und setzten zwei Figuren, welche sich auf einer festgelegten vertikalen Achse bewegen können und aufeinander schießen.
 
