@@ -1,10 +1,18 @@
 # Stundenblog
 
-
-[Einführung](#einf)  
 [1. Dienstag, 21. August 2018](#1)  
 [2.  Montag, 27. August 2018](#2)  
 [3. Dienstag, 28. August 2018](#3)
+[4. Dienstag, 28. August 2018](#4)
+[5. Dienstag, 28. August 2018](#5)
+[6. Dienstag, 28. August 2018](#6)
+[37. Dienstag, 28. August 2018](#7)
+
+
+
+
+
+
 ## Stundenblog
 
 ## <a name="1"></a> Dienstag, 21. August 2018
@@ -30,7 +38,7 @@ Bei einem Treffer mit dem Laser explodiert der Feind und wird zu einem Feuerball
 
 Nachdem wir gestern bereits ein Spiel in ersten Ansätem erarbeitet hatten, wollten wir unsere Idee huete ausbauen. Daher entwickelten wir Ansätze eines einfaches Spiel für zwei Spieler, basierend auf einer Filmreihe. Wir nutzten das Programm "The beauty and joy of computing" und setzten zwei Figuren, welche sich auf einer festgelegten vertikalen Achse bewegen können und aufeinander schießen.
 
-## Montag, 10. September 2018
+## <a name="4"></a>Montag, 10. September 2018
 
 Da in der letzten Woche der Informatikunterrciht ausgefallen ist, haben wir erst heute wieder mit der Projektarbeit weiter gemacht. Nachdem wir uns in den letzten Stunden mit diversen verschiedenen Möglichkeiten, um mit Snap! zu Programmieren befasst haben, haben  uns wir heute weiter mit der Lektion 3 der ersten Unit von "The Beauty and Joy of Computing" befasst, bei der es darum ging, bestimmte symmetrische Muster zu zeichenen. 
 
@@ -39,7 +47,7 @@ Dafür erstellten wir erst einen neuen Block, indem wir die Befehle für die Gr�
 Anschließend legten wir verschiedenen Stiftfarben und Formen aus.
 
 
-## Dienstag, 11. September 2018
+##<a name="5"></a> Dienstag, 11. September 2018
 
 Heute haben wir versucht, ein auf den gestern gewonennen Erkenntnissen basierendes, sich immer weiter ausbreitendes MAndala zu zeichen, was allerdings nur in Ansätzen gelang.
 
