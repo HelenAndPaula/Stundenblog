@@ -66,6 +66,10 @@ Heute haben wir versucht, ein auf den gestern gewonennen Erkenntnissen basierend
 
 Gestern haben wir zwei neue Figuren gesucht und diese sich bewegen lassen. DAbei handelte es sich um einen Dinosaurier und eine Ballerina. Diese programmierten wir so, dass sie bei Betätigen bestimmter Tasten Ballet tanzen. 
 
+![ballerina u dino](https://user-images.githubusercontent.com/42578525/45693596-c1a57980-bb5d-11e8-9dbb-06ed956e2a8b.PNG)
+
+![tanzen](https://user-images.githubusercontent.com/42578525/45693735-07624200-bb5e-11e8-8a21-b4e2722f00dd.PNG)
+
 
 ## <a name="7"></a> Dienstag, 18. September 2018
 
