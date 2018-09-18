@@ -76,4 +76,5 @@ Gestern haben wir zwei neue Figuren gesucht und diese sich bewegen lassen. DAbei
 Heute haben wir das gestern begonnene Projekt nach der Unit 1, Lab 3 des BJC-Kurses weiter ausgeführt. Dabei haben wir die Figuren nun miteinander kommunizieren lassen. 
 
 ![balerina befehle](https://user-images.githubusercontent.com/42578525/45693923-75a70480-bb5e-11e8-94e0-969a703e60de.PNG)
+
 ![dino befehl](https://user-images.githubusercontent.com/42578525/45693929-79d32200-bb5e-11e8-906c-60897d993220.PNG)
