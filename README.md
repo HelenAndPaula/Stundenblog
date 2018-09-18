@@ -8,13 +8,13 @@
 
 [3. Dienstag, 28. August 2018](#3)
 
-[4. Dienstag, 28. August 2018](#4)
+[4. Montag, 10. Septmber 2018](#4)
 
-[5. Dienstag, 28. August 2018](#5)
+[5. Dienstag, 11. September 2018](#5)
 
-[6. Dienstag, 28. August 2018](#6)
+[6. Montag, 17. September 2018](#6)
 
-[37. Dienstag, 28. August 2018](#7)
+[37. Dienstag, 18. September 2018](#7)
 
 
 
@@ -55,8 +55,18 @@ Dafür erstellten wir erst einen neuen Block, indem wir die Befehle für die Gr�
 Anschließend legten wir verschiedenen Stiftfarben und Formen aus.
 
 
-##<a name="5"></a> Dienstag, 11. September 2018
+## <a name="5"></a>  Dienstag, 11. September 2018
 
 Heute haben wir versucht, ein auf den gestern gewonennen Erkenntnissen basierendes, sich immer weiter ausbreitendes MAndala zu zeichen, was allerdings nur in Ansätzen gelang.
 
 ![11 9](https://user-images.githubusercontent.com/42578525/45364633-2a26b080-b5ca-11e8-9d66-85b144c01568.PNG)
+
+
+## <a name="6"></a> Montag, 17. September 2018
+
+Gestern haben wir zwei neue Figuren gesucht und diese sich bewegen lassen. DAbei handelte es sich um einen Dinosaurier und eine Ballerina. Diese programmierten wir so, dass sie bei Betätigen bestimmter Tasten Ballet tanzen. 
+
+
+## <a name="7"></a> Dienstag, 18. September 2018
+
+Heute haben wir das gestern begonnene Projekt nach der Unit 1, Lab 3 des BJC-Kurses weiter ausgeführt. Dabei haben wir die Figuren nun miteinander kommunizieren lassen. 
