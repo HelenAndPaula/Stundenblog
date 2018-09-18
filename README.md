@@ -70,3 +70,11 @@ Gestern haben wir zwei neue Figuren gesucht und diese sich bewegen lassen. DAbei
 ## <a name="7"></a> Dienstag, 18. September 2018
 
 Heute haben wir das gestern begonnene Projekt nach der Unit 1, Lab 3 des BJC-Kurses weiter ausgeführt. Dabei haben wir die Figuren nun miteinander kommunizieren lassen. 
+
+
+
+
+const farben = require('farben');
+
+console.log(farben('unicorns', 'magenta'));
+//=> 'unicorns' (in magenta)
