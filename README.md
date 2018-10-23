@@ -2,23 +2,23 @@
 
 ## *Inhaltsverzeichnis*
 
-[1. Dienstag, 21. August 2018](#1)  
+[1.  Dienstag, 21. August 2018](#1)  
 
 [2.  Montag, 27. August 2018](#2)  
 
-[3. Dienstag, 28. August 2018](#3)
+[3.  Dienstag, 28. August 2018](#3)
 
-[4. Montag, 10. Septmber 2018](#4)
+[4.  Montag, 10. Septmber 2018](#4)
 
-[5. Dienstag, 11. September 2018](#5)
+[5.  Dienstag, 11. September 2018](#5)
 
-[6. Montag, 17. September 2018](#6)
+[6.  Montag, 17. September 2018](#6)
 
-[7. Dienstag, 18. September 2018](#7)
+[7.  Dienstag, 18. September 2018](#7)
 
-[8. Montag, 22. Oktober 2018](#8)
-
-[9. Dienstag, 23. Oktober 2018](#9)
+[8.  Montag, 22. Oktober 2018](#8)
+ 
+[9.  Dienstag, 23. Oktober 2018](#9)
 
 
 
