@@ -84,3 +84,8 @@ Heute haben wir das gestern begonnene Projekt nach der Unit 1, Lab 3 des BJC-Kur
 Gestern haben wir zunächst versucht, uns in unser Github-Konto einzuloggen, was allerdings erfolglos blieb. Daraufhin haben wir aus den bereits von uns begonnenen bzw. ausprobierten Snap!-Projekten eine Auswahl getroffen, die sich für die Abgabe eignen. Unsere Wahl fiel dabei auf ein recht einfaches Spiel, welches wir in den kommenden Stunden weiter ausbauen werden. 
 
 Anschließend haben wir im Internet recherchiert, wie man den Hintergrund bei Snap! vergrößert, um ihn anzupassen. 
+
+
+![hintergrund](https://user-images.githubusercontent.com/42578525/47365029-f9628c80-d6da-11e8-875a-06aa3852f272.PNG)
+
+![hintergrund gross](https://user-images.githubusercontent.com/42578525/47365016-f2d41500-d6da-11e8-8368-4f91e098994d.PNG)
