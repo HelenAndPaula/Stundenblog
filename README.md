@@ -78,3 +78,9 @@ Heute haben wir das gestern begonnene Projekt nach der Unit 1, Lab 3 des BJC-Kur
 ![balerina befehle](https://user-images.githubusercontent.com/42578525/45693923-75a70480-bb5e-11e8-94e0-969a703e60de.PNG)
 
 ![dino befehl](https://user-images.githubusercontent.com/42578525/45693929-79d32200-bb5e-11e8-906c-60897d993220.PNG)
+
+## Montag, 22. Oktober 2018
+
+Gestern haben wir zunächst versucht, uns in unser Github-Konto einzuloggen, was allerdings erfolglos blieb. Daraufhin haben wir aus den bereits von uns begonnenen bzw. ausprobierten Snap!-Projekten eine Auswahl getroffen, die sich für die Abgabe eignen. Unsere Wahl fiel dabei auf ein recht einfaches Spiel, welches wir in den kommenden Stunden weiter ausbauen werden. 
+
+Anschließend haben wir im Internet recherchiert, wie man den Hintergrund bei Snap! vergrößert, um ihn anzupassen. 
