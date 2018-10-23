@@ -34,6 +34,8 @@ auseinandergesetzt und dieses eingerichtet. Anschließend lasen wir den Informat
 
 ## <a name="2"></a>Montag, 27. August 2018
 
+![unbenannt](https://user-images.githubusercontent.com/42578525/47366477-0c2a9080-d6de-11e8-9c60-87f4f7bcfa47.PNG)
+
 Nach einigem Ausprobieren in der letzten Doppelstunde haben wir uns für The Beauty and Joy of Computing entschieden.
 https://snap.berkeley.edu/snapsource/snap.html#
 
