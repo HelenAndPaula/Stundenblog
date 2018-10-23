@@ -67,7 +67,7 @@ Heute haben wir versucht, ein auf den gestern gewonennen Erkenntnissen basierend
 ![11 9](https://user-images.githubusercontent.com/42578525/45364633-2a26b080-b5ca-11e8-9d66-85b144c01568.PNG)
 
 
-## <a name="6"></a> Montag, 17. September 2018
+# <a name="6"></a> Montag, 17. September 2018
 
 Gestern haben wir zwei neue Figuren gesucht und diese sich bewegen lassen. DAbei handelte es sich um einen Dinosaurier und eine Ballerina. Diese programmierten wir so, dass sie bei Betätigen bestimmter Tasten Ballet tanzen. 
 
@@ -97,4 +97,4 @@ Anschließend haben wir im Internet recherchiert, wie man den Hintergrund bei Sn
 
 ##  <a name="9"></a> Dienstag, 23. Oktober 2018
 
-Da Github gestern nicht richtig funktioniert hat, mussten wir den gestrigen Stundenblog heute ergänzen, was wir die ersten 10 Minuten der Stunde getan haben. 
+Da Github gestern nicht richtig funktioniert hat, mussten wir den gestrigen Stundenblog heute ergänzen, was wir die ersten 10 Minuten der Stunde getan haben. Anschließend haben wir uns weiter mit unserem Projekt 
