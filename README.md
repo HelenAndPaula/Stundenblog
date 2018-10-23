@@ -18,6 +18,7 @@
 
 [8. Montag, 22. Oktober 2018](#8)
 
+[9. Dienstag, 23. Oktober 2018](#9)
 
 
 
@@ -29,7 +30,7 @@
 
 In der ersten Doppelstunde haben wir zunächst nach einer ersten Einführung durch Herrn Buhl mit einem eigenen GitHub-Konto 
 auseinandergesetzt und dieses eingerichtet. Anschließend lasen wir den Informationstext auf GitHub ( https://raw.githubusercontent.com/jbuhl/InformatikUnterricht/master/README.md ) 
-gelesen und uns anschließend mit den verschiedenen Programmen, primär mit StarLogo TNG beschäftigt. 
+ und beschäftigten uns anschließend mit den verschiedenen Programmen, primär mit StarLogo TNG. 
 
 ## <a name="2"></a>Montag, 27. August 2018
 
