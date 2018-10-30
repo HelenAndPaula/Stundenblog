@@ -97,4 +97,10 @@ Anschließend haben wir im Internet recherchiert, wie man den Hintergrund bei Sn
 
 ##  <a name="9"></a> Dienstag, 23. Oktober 2018
 
-Da Github gestern nicht richtig funktioniert hat, mussten wir den gestrigen Stundenblog heute ergänzen, was wir die ersten 10 Minuten der Stunde getan haben. Anschließend haben wir uns weiter mit unserem Projekt 
+Da Github gestern nicht richtig funktioniert hat, mussten wir den gestrigen Stundenblog heute ergänzen, was wir die ersten 10 Minuten der Stunde getan haben. Anschließend haben wir uns weiter mit unserem Projekt beschäftigt und es ein wenig abgeändert: Wir haben unser Mini-Spiel dem Thema Halloween untergeordnet und darum einen neuen Hintergrund gewählt und drei Fledermäuse hinzugefügt.
+
+
+##  <a name="9"></a> Montag, 29. Oktober 2018
+
+Heute sind leider Prbleme bei unserem Projekt auf Snap! aufgetreten. Wir konnten die Blöcke nicht mehr verändern und auch keine neuen hinzufügen aufgrund der Fehlermeldung:
+ 
