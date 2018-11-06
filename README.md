@@ -103,4 +103,9 @@ Da Github gestern nicht richtig funktioniert hat, mussten wir den gestrigen Stun
 ##  <a name="9"></a> Montag, 29. Oktober 2018
 
 Heute sind leider Prbleme bei unserem Projekt auf Snap! aufgetreten. Wir konnten die Blöcke nicht mehr verändern und auch keine neuen hinzufügen aufgrund der Fehlermeldung:
+
+##  <a name="9"></a> Dienstag, 30. Oktober 2018
+
+Heute haben wir das Problem von letzter Stunde behoben: Wir haben hatten ein Prblem mit dem Browser. Danach haben wir das Halloween-Spiel weiterprogrammiert und als Spielfigur ein Gespenst hinzugefügt, welches mit der Mausgesteuert wird, da es dieser folgt.  
+
  
