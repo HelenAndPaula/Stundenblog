@@ -112,4 +112,6 @@ Heute haben wir das Problem von letzter Stunde behoben: Wir haben hatten ein Prb
 
 ![unbenannt](https://user-images.githubusercontent.com/42578525/48071813-70b81600-e1db-11e8-9016-4d1471eb7874.PNG)
 
+Das Ziel ist es, mit dem Geist den Fledermäusen auszuweichen, da diese dem Geist ansosten SChaden zufügen. Den Rest der Stunde haben wir damit verbracht, im Internet nach Möglichkeiten zu suchen, das Spiel in verschiedene Level aufzuteilen und dem Geist Leben zu geben, damit dieser nur begrenzt oft von den Fledermäusen getroffen werden kann. DAbei sind wor allerdings eher erfolglos gebleiben. 
+
  
