@@ -106,6 +106,10 @@ Heute sind leider Prbleme bei unserem Projekt auf Snap! aufgetreten. Wir konnten
 
 ##  <a name="9"></a> Dienstag, 30. Oktober 2018
 
-Heute haben wir das Problem von letzter Stunde behoben: Wir haben hatten ein Prblem mit dem Browser. Danach haben wir das Halloween-Spiel weiterprogrammiert und als Spielfigur ein Gespenst hinzugefügt, welches mit der Mausgesteuert wird, da es dieser folgt.  
+Heute haben wir das Problem von letzter Stunde behoben: Wir haben hatten ein Prblem mit dem Browser. Danach haben wir das Halloween-Spiel weiterprogrammiert und als Spielfigur ein Gespenst hinzugefügt, welches mit der Mausgesteuert wird, da es dieser folgt. 
+
+![geist](https://user-images.githubusercontent.com/42578525/48071797-672eae00-e1db-11e8-8b28-1261124fc8c3.PNG)
+
+![unbenannt](https://user-images.githubusercontent.com/42578525/48071813-70b81600-e1db-11e8-9016-4d1471eb7874.PNG)
 
  
