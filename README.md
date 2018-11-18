@@ -112,6 +112,31 @@ Heute haben wir das Problem von letzter Stunde behoben: Wir haben hatten ein Prb
 
 ![unbenannt](https://user-images.githubusercontent.com/42578525/48071813-70b81600-e1db-11e8-9016-4d1471eb7874.PNG)
 
-Das Ziel ist es, mit dem Geist den Fledermäusen auszuweichen, da diese dem Geist ansosten SChaden zufügen. Den Rest der Stunde haben wir damit verbracht, im Internet nach Möglichkeiten zu suchen, das Spiel in verschiedene Level aufzuteilen und dem Geist Leben zu geben, damit dieser nur begrenzt oft von den Fledermäusen getroffen werden kann. DAbei sind wor allerdings eher erfolglos gebleiben. 
+Das Ziel ist es, mit dem Geist den Fledermäusen auszuweichen, da diese dem Geist ansosten Schaden zufügen. Den Rest der Stunde haben wir damit verbracht, im Internet nach Möglichkeiten zu suchen, das Spiel in verschiedene Level aufzuteilen und dem Geist Leben zu geben, damit dieser nur begrenzt oft von den Fledermäusen getroffen werden kann. Dabei sind wor allerdings eher erfolglos gebleiben. 
 
+ ##  <a name="9"></a> Montag, 5. November 2018
  
+Heute wurde das Mini-Spiel ein wenig erweitert: Wir haben in das Spiel einen Kürbis eingesetzt, der, wenn er vom Geist berührt wird, zufällig auf eine andere Position wechselt. Das Ziel des Spielers ist es also mit dem Geist so viele Kürbisse wie möglich "einzufangen".
+ 
+![grafik](https://user-images.githubusercontent.com/42578525/48675606-334c7480-eb5b-11e8-951b-a39f3853a55f.png)
+
+ ##  <a name="9"></a> Dienstag, 6. November 2018
+ 
+Zuerst haben wir heut eheut die Steuerung unseres Spiels verbessert: Der Geist wird nicht mehr mit derMaus gesteuert, sondern ganz simple mit den Pfeiltasten der Tastatur. Der Grund dafür war, dass wenn man die Maus nicht bewegt hatte (Geist und Maus waren auf gleicher Position), sich der Geist nicht für eine Richtung entscheiden konnte und sich ganze Zeit herumgewirbelt hat.
+
+![grafik](https://user-images.githubusercontent.com/42578525/48675690-56c3ef00-eb5c-11e8-87f1-9f753ca35888.png)
+
+Zudem haben wir angefangen einen Punktestand zu programmieren - Wenn man einen Kürbis berührt, erhält man zwei Punkte; wenn man einen Geist berührt, verliert man zwei Punkte. Mehr dazu auf unseren [Projektseite](https://github.com/HelenAndPaula/Projektseite-Halloween---The-Game)
+
+![grafik](https://user-images.githubusercontent.com/42578525/48675772-90492a00-eb5d-11e8-984a-ed35266e3361.png)
+
+ ##  <a name="9"></a> Montag, 12. November 2018
+ 
+Nachdem wir in unserem Projekt den Punktestand weiterentwickelt und einen Countdown erstellt haben, richteten wir einen Startbildschirm ein. 
+
+![grafik](https://user-images.githubusercontent.com/42578525/48675822-27ae7d00-eb5e-11e8-9523-8bbae8e32d2c.png)
+
+Zudem erscheint zu Beginn des Spiels eine Sprechblase, die Anweisungen für das Spiel gibt.
+
+
+![grafik](https://user-images.githubusercontent.com/42578525/48675846-8f64c800-eb5e-11e8-8509-a639df359031.png)
