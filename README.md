@@ -126,7 +126,7 @@ Zuerst haben wir heut eheut die Steuerung unseres Spiels verbessert: Der Geist w
 
 ![grafik](https://user-images.githubusercontent.com/42578525/48675690-56c3ef00-eb5c-11e8-87f1-9f753ca35888.png)
 
-Zudem haben wir angefangen einen Punktestand zu programmieren - Wenn man einen Kürbis berührt, erhält man zwei Punkte; wenn man einen Geist berührt, verliert man zwei Punkte. Mehr dazu auf unseren [Projektseite](https://github.com/HelenAndPaula/Projektseite-Halloween---The-Game)
+Zudem haben wir angefangen einen Punktestand zu programmieren - Wenn man einen Kürbis berührt, erhält man zwei Punkte; wenn man einen Geist berührt, verliert man zwei Punkte. Mehr dazu auf unsere [Projektseite](https://github.com/HelenAndPaula/Projektseite-Halloween---The-Game).
 
 ![grafik](https://user-images.githubusercontent.com/42578525/48675772-90492a00-eb5d-11e8-984a-ed35266e3361.png)
 
