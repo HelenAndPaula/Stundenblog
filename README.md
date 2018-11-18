@@ -20,7 +20,15 @@
  
 [9.   Dienstag, 23. Oktober 2018](#9)
 
+[10.   Montag, 29. Oktober 2018](#10)
 
+[11.   Dienstag, 30. Oktober 2018](#11)
+
+[12.   Montag, 5. Novemeber 2018](#11)
+
+[13.   Dienstag, 6. Novemeber 2018](#10)
+
+[14.   Montag, 12. Novemeber 2018](#11)
 
 
 
@@ -100,11 +108,11 @@ Anschließend haben wir im Internet recherchiert, wie man den Hintergrund bei Sn
 Da Github gestern nicht richtig funktioniert hat, mussten wir den gestrigen Stundenblog heute ergänzen, was wir die ersten 10 Minuten der Stunde getan haben. Anschließend haben wir uns weiter mit unserem Projekt beschäftigt und es ein wenig abgeändert: Wir haben unser Mini-Spiel dem Thema Halloween untergeordnet und darum einen neuen Hintergrund gewählt und drei Fledermäuse hinzugefügt.
 
 
-##  <a name="9"></a> Montag, 29. Oktober 2018
+##  <a name="10"></a> Montag, 29. Oktober 2018
 
 Heute sind leider Prbleme bei unserem Projekt auf Snap! aufgetreten. Wir konnten die Blöcke nicht mehr verändern und auch keine neuen hinzufügen aufgrund der Fehlermeldung:
 
-##  <a name="9"></a> Dienstag, 30. Oktober 2018
+##  <a name="11"></a> Dienstag, 30. Oktober 2018
 
 Heute haben wir das Problem von letzter Stunde behoben: Wir haben hatten ein Prblem mit dem Browser. Danach haben wir das Halloween-Spiel weiterprogrammiert und als Spielfigur ein Gespenst hinzugefügt, welches mit der Mausgesteuert wird, da es dieser folgt. 
 
@@ -114,13 +122,13 @@ Heute haben wir das Problem von letzter Stunde behoben: Wir haben hatten ein Prb
 
 Das Ziel ist es, mit dem Geist den Fledermäusen auszuweichen, da diese dem Geist ansosten Schaden zufügen. Den Rest der Stunde haben wir damit verbracht, im Internet nach Möglichkeiten zu suchen, das Spiel in verschiedene Level aufzuteilen und dem Geist Leben zu geben, damit dieser nur begrenzt oft von den Fledermäusen getroffen werden kann. Dabei sind wor allerdings eher erfolglos gebleiben. 
 
- ##  <a name="9"></a> Montag, 5. November 2018
+ ##  <a name="12"></a> Montag, 5. November 2018
  
 Heute wurde das Mini-Spiel ein wenig erweitert: Wir haben in das Spiel einen Kürbis eingesetzt, der, wenn er vom Geist berührt wird, zufällig auf eine andere Position wechselt. Das Ziel des Spielers ist es also mit dem Geist so viele Kürbisse wie möglich "einzufangen".
  
 ![grafik](https://user-images.githubusercontent.com/42578525/48675606-334c7480-eb5b-11e8-951b-a39f3853a55f.png)
 
- ##  <a name="9"></a> Dienstag, 6. November 2018
+ ##  <a name="13"></a> Dienstag, 6. November 2018
  
 Zuerst haben wir heut eheut die Steuerung unseres Spiels verbessert: Der Geist wird nicht mehr mit derMaus gesteuert, sondern ganz simple mit den Pfeiltasten der Tastatur. Der Grund dafür war, dass wenn man die Maus nicht bewegt hatte (Geist und Maus waren auf gleicher Position), sich der Geist nicht für eine Richtung entscheiden konnte und sich ganze Zeit herumgewirbelt hat.
 
@@ -130,7 +138,7 @@ Zudem haben wir angefangen einen Punktestand zu programmieren - Wenn man einen K
 
 ![grafik](https://user-images.githubusercontent.com/42578525/48675772-90492a00-eb5d-11e8-984a-ed35266e3361.png)
 
- ##  <a name="9"></a> Montag, 12. November 2018
+ ##  <a name="14"></a> Montag, 12. November 2018
  
 Nachdem wir in unserem Projekt den Punktestand weiterentwickelt und einen Countdown erstellt haben, richteten wir einen Startbildschirm ein. 
 
