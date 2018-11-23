@@ -148,3 +148,11 @@ Zudem erscheint zu Beginn des Spiels eine Sprechblase, die Anweisungen für das 
 
 
 ![grafik](https://user-images.githubusercontent.com/42578525/48675846-8f64c800-eb5e-11e8-8509-a639df359031.png)
+
+## <a name="14"></a> Dienstag, 13. November 2018
+
+Heute haben wir unsere [Projektseite](https://github.com/HelenAndPaula/Projektseite-Halloween---The-Game)weiter bearbeitet und ergänzt, sowie Endbildschirme entickelt.
+
+##   <a name="14"></a> Dienstag, 20. November 2018
+
+Da heute die letzte Stunde vor der Abgabe war, haben wir unser Spiel zum letzten Mal überprüft und anschließend unsere Projektseite weitergeschrieben, sowie das Spiel selbst und von anderen testen lassen. 
